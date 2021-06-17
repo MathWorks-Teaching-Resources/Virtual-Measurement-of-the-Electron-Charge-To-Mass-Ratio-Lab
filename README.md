@@ -2,7 +2,7 @@
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
-<img src="apparatus.png" width="400">
+<img src="https://user-images.githubusercontent.com/81383420/122455125-0f06dd80-cf7a-11eb-817b-b74c9dadcbc2.png" width="400" alt="Apparatus schematic">
 
 ## Description ##
 This curriculum module contains a [MATLAB&reg; app](https://www.mathworks.com/products/matlab/app-designer.html) and a [live script](https://www.mathworks.com/products/matlab/live-editor.html) that follow J.J. Thomson’s landmark experiment to measure the charge to mass ratio of the electron, e/m. The app is a virtual replacement for the experimental apparatus commonly used in physics laboratories. The live script contains a manual for conducting the experiment. This lab includes background, pre-lab, virtual experiment, and data analysis sections and concludes with an application of the theory to mass spectrometry.
