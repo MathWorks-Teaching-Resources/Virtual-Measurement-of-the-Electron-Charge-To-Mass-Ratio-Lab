@@ -1,4 +1,4 @@
-# Virtual Measurement of e/m Lab [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-)
+# Virtual Measurement of e/m Lab [![View Virtual Measurement of e/m Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab)
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
