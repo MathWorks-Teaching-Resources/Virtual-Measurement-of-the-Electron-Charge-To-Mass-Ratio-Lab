@@ -1,3 +1,0 @@
-Name,Passed,Failed,Incomplete,Duration,Details
-SmokeTests[Project=0x0_char]/SmokeRun(Scripts=emLab.mlx),1,0,0,0.1027113,
-SmokeTests[Project=0x0_char]/SmokeRun(Scripts=emLabSoln.mlx),1,0,0,0.6025921,
