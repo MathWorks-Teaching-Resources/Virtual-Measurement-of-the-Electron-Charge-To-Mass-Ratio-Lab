@@ -1,48 +1,72 @@
-# Virtual Measurement of e/m Lab 
-[![View Virtual Measurement of e/m Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&file=emLab.mlx)
 
-**Curriculum Module**  
-_Created with R2020b. Compatible with R2020b and later releases._  
+<a name="T_DEF03274"></a>
+# <span style="color:rgb(213,80,0)">Virtual Measurement of the Electron to Mass ratio </span>
+<a name="H_053613DF"></a>
 
-<img src="https://user-images.githubusercontent.com/81383420/122767780-feec4800-d270-11eb-81b5-41d2c4c8376b.png" width="400" alt="Apparatus schematic">
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&project=virtual-measurement-of-the-electron-charge-to-m.prj)
 
-## Description ##
-This curriculum module contains a [MATLAB&reg; app](https://www.mathworks.com/products/matlab/app-designer.html) and a [live script](https://www.mathworks.com/products/matlab/live-editor.html) that follow J.J. Thomson’s landmark experiment to measure the charge to mass ratio of the electron, e/m. The app is a virtual replacement for the experimental apparatus commonly used in physics laboratories. The live script contains a manual for conducting the experiment. This lab includes background, pre-lab, virtual experiment, and data analysis sections and concludes with an application of the theory to mass spectrometry.
+**Curriculum Module**
 
-**Learning Goals**
-- Explain the forces present in the experimental apparatus
-- Derive the physical relationships required to compute the e/m ratio
-- Use the app to perform the experiment
-- Estimate the value of e/m
-- Compute the experimental error and discuss its sources
-- Relate the underlying theory to mass spectrometry
+_Created with R2020b. Compatible with R2020b and later releases._
 
-## Details ##
+# Information
 
-**`emLab.mlx, emLabSoln.mlx`**  
-A lab manual for the virtual experiment. This live script includes a background description, pre-lab questions, a guide to the virtual experiment, and details on how to process and analyze the data.
+This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) and [MATLAB® app](https://www.mathworks.com/products/matlab/app-designer.html) that follow J.J. Thomson’s landmark experiment to measure the charge to mass ratio of the electron, e/m. 
 
-## ##
-**`emApparatus.mlapp`**  
-A MATLAB app that contains a virtual reproduction of the experimental apparatus. Details concerning how to use the app are included in `emLab.mlx`.
+<a name="H_F00D98E4"></a>
+## Background
 
-## ##
-**`emExpSoln.mat`**  
-Example measurements taken from the app used in the solution script, `emLabSoln.mlx`.
+The app is a virtual replacement for the experimental apparatus commonly used in physics laboratories. The live script contains a manual for conducting the experiment. This lab includes background, pre-lab, virtual experiment, and data analysis sections and concludes with an application of the theory to mass spectrometry.
 
-## Products ##
-MATLAB, Symbolic Math Toolbox&trade;, Curve Fitting Toolbox&trade;
 
-## License ##
-The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/image_0.png" width="19" alt="image_0.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
-## Educator Resources ##
-* [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
-* [Teach with MATLAB and Simulink](https://www.mathworks.com/academia/educators.html)
-* [MATLAB Grader](https://www.mathworks.com/products/matlab-grader.html)
+## Contact Us
 
-Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a>
+Solutions are available upon instructor request. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to request solutions, provide feedback, or if you have a question.
 
-# #
+<a name="H_330E72C3"></a>
+## Getting Started
+### Accessing the Module
+### **On MATLAB Online:**
 
-_Copyright 2021 The MathWorks, Inc._
+Use the [<img src="Images/image_1.png" width="136" alt="image_1.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&project=virtual-measurement-of-the-electron-charge-to-m.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+
+### **On Desktop:**
+
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on [virtual-measurement-of-the-electron-charge-to-m.prj](matlab: openProject("virtual-measurement-of-the-electron-charge-to-m.prj")). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+
+
+Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the **Home** tab and select  <img src="Images/image_2.png" width="16" alt="image_2.png"> **Add-Ons** > **Get Add-Ons**. 
+
+<a name="H_E850B4FF"></a>
+## Products
+-  MATLAB® 
+-  Curve Fitting Toolbox™ 
+-  Symbolic Math Toolbox™ 
+
+<a name="H_E8C62B23"></a>
+# Scripts
+
+ *If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab)
+
+## [**emLab.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&project=virtual-measurement-of-the-electron-charge-to-m.prj&file=emLab.mlx)
+| <img src="Images/image_3.png" width="171" alt="image_3.png"> | **In this script, students will...** <br>-  Explain the forces present in the experimental apparatus <br>-  Derive the physical relationships required to compute the e/m ratio <br>-  Relate the underlying theory to mass spectrometry  |
+| :-- | :-- |
+
+
+# Related Courseware Modules
+
+Feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
+
+# Educator Resources
+-  [Educator Page](https://www.mathworks.com/academia/educators.html) 
+<a name="H_0FA5DA18"></a>
+# Contribute 
+
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab/blob/release/CONTRIBUTING.md) page on GitHub.
+
+
+ *©* Copyright 2023 The MathWorks™, Inc
+
+
