@@ -7,7 +7,7 @@
 
 **Curriculum Module**
 
-_Created with R2020b. Compatible with R2020b and later releases._
+_Created with R2021a. Compatible with R2021a and later releases._
 
 # Information
 
