@@ -273,7 +273,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
             app.ReviewTitle.FontSize = 24;
             app.ReviewTitle.FontWeight = 'bold';
             app.ReviewTitle.Position = [2 326 274 93];
-            app.ReviewTitle.Text = 'Welcome to Module Template';
+            app.ReviewTitle.Text = 'Virtual Measurement of the Electron to Mass ratio ';
 
             % Create Q1
             app.Q1 = uilabel(app.TabReview);
